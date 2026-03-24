@@ -102,7 +102,7 @@ LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-100')) #Verification Channe
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-100')) #If Anyone Set Your Bot In Any Group And Set Shortner In That Group Then In This Channel The All Details Come
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://telegra.ph/file/9ecc5d6e4df5b83424896.jpg")
 
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/iqbaleditzzz")   # Tutorial link for verification
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/MoviezzzzXx")   # Tutorial link for verification
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/iqbaleditzzz")   # Second tutorial link for verification
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/iqbaleditzzz")   # Third tutorial link for verification
 
@@ -122,8 +122,8 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))
 # ============================
 # Channel & Group Links Configuration
 # ============================
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/iqbaleditzzz') # Group link for the bot
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/iqbaleditzzz') # Owner link for the bot
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MoviezzzzXx') # Group link for the bot
+OWNER_LNK = environ.get('OWNER_LNK', '@Youkio') # Owner link for the bot
 UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/iqbaleditzzz') # Update channel link for the bot
 
 # ============================
